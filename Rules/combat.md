@@ -44,9 +44,9 @@ A combatant is flanking an enemy under these conditions:
 
 ## Attacking
 ```
-melee attack roll = 1d20 + attack bonus + strength modifier
+melee attack roll = 1d20 + attack bonus + weapon bonus + strength modifier
 
-ranged attack roll = 1d20 + attack bonus + dexterity modifier
+ranged attack roll = 1d20 + attack bonus + weapon bonus + dexterity modifier
 
 melee damage roll = weapon dice + weapon bonus + strength bonus
 
