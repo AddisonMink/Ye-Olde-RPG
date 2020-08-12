@@ -3,15 +3,17 @@
 ## Weapons
 | Name            | Strength | Cost | Damage | Special                          |
 |-----------------|----------|------|--------|----------------------------------|
-| Dagger          | 3        | 2gp  | 1d4    | throwable; range 20 feet         |
+| Dagger*         | 3        | 2gp  | 1d4    | throwable; range 20 feet;        |
 | Staff           | 3        | 1gp  | 1d6    | requires 2 hands                 |
-| Light Weapon    | 6        | 6gp  | 1d6    | e.g. shortsword, light mace      |
+| Light Weapon*   | 6        | 6gp  | 1d6    | e.g. shortsword, light mace;     |
 | Medium Weapon   | 9        | 10gp | 1d8    | e.g. longsword, battleaxe        |
 | 2-Handed Weapon | 13       | 18gp | 1d10   | e.g. greatsword, maul            |
 | Polearm         | 13       | 20gp | 1d8    | 10-foot reach;                   |
 | Spear           | 9        | 5gp  | 1d6    | throwable; range 30 foot         |
 | Shortbow        | 6        | 25gp | 1d6    | range 100 feet; arrows cost 1 sp |
 | Longbow         | 9        | 60gp | 1d8    | range 140 feet; arrows cost 2 sp |
+* You can use your dexterity modifier instead of your strength modifier on melee attack rolls.
+
 
 ## Armor
 | Name      | Cost | AC | Strength |
