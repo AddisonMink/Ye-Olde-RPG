@@ -7,8 +7,6 @@ Can use all weapons and armor.
 
 *Defensive Stance*: use an action to gain a +4 bonus to AC until the beginning of your next turn. You can only do this once per round. While in defensive stance, you can do up to 2 attacks of opportunity per round.
 
-*Weapon Specialization*:
-
 ## Attack Bonus
 | Level | Attack Roll Bonus |
 |-------|-------------------|
