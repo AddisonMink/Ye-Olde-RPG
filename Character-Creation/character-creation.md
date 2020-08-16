@@ -21,7 +21,7 @@ If you don't have a 13 or higher in at least 2 non-charisma abilities, you can r
 | 16-17         | +2       |
 | 18            | +3       |
 
-## Step 3: Select Class
+## Step 2: Select Class
 Your starting hp is your maximum hit die roll + your constitution modifier.
 
 ## Step 4: Buy Equipment
