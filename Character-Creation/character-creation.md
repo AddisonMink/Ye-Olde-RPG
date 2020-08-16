@@ -24,5 +24,5 @@ If you don't have a 13 or higher in at least 2 non-charisma abilities, you can r
 ## Step 2: Select Class
 Your starting hp is your maximum hit die roll + your constitution modifier.
 
-## Step 4: Buy Equipment
+## Step 3: Buy Equipment
 You start with 100 gold pieces. You can buy anything listed in the equipment file.
